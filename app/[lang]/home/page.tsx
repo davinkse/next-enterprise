@@ -25,7 +25,7 @@ const Page = async ({ params: { lang } }: { params: { lang: string } }) => {
           </button>
         </form>
       )}
-      <h1>Nextjs template</h1>
+      <h1>Davinkse using Nextjs template </h1>
       <ThemeToggle />
       <LanguageSwitcher />
     </section>
